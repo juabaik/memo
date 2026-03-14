@@ -1,0 +1,2 @@
+gcc test.c -o test
+이걸 수행하면 test.exe가 생성되고, ./test.exe를 터미널에서 실행가능
