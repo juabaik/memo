@@ -1,1 +1,5 @@
 git pull : github에서 최신으로 업데이트
+
+PS C:\jua\memo> git add *
+PS C:\jua\memo> git commit -m "최초 메모장 업데이트"
+PS C:\jua\memo> git push -u origin main
